@@ -1,0 +1,16 @@
+.gradient-custom-2 {
+    /* fallback for old browsers */
+    background: linear-gradient(to right, rgb(102, 174, 255), rgb(72, 167, 255));
+    
+    /* Modern Browsers */
+    background: -moz-linear-gradient(to right, rgb(102, 174, 255), rgb(72, 167, 255));
+    background: -webkit-linear-gradient(to right, rgb(102, 174, 255), rgb(72, 167, 255));
+    }
+    
+    .rounded-circle-custom {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    }
